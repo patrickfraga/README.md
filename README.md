@@ -1,10 +1,9 @@
-### Olá eu sou a Patrick Fraga, Engenheiro da Computação e Capitão-Tenente na Marinha do Brasil
-<div align="center">
-  
-- Estudando CompTIA PenTest+ CompTIA Security+, CySA+
-- Certificação DCPT
- <!-- TESTE:END -->
-  
+#### Olá eu sou a Patrick Fraga, Engenheiro da Computação e Capitão-Tenente na Marinha do Brasil
+<div align="left">
+
+- Interesse em Gerra Cibernética, Defesa Cibernética e Segurança da Informação
+- Estudando para as certificações: DCPT, CompTIA PenTest+ CompTIA Security+, CySA+
+
   ### 📹 Cursos Online em Segurança da Informação e Defesa Cibernética!
 
 <!-- YOUTUBE:START -->
