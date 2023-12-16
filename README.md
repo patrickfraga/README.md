@@ -4,9 +4,14 @@
 <p><b>Escola de Guerra Naval</b><i> - Laboratório de Simulações e Cenários</i></p>
 
 <ul>
-<b>Atuo como Pesquisador Voluntário de Cyber Defesa</b>
+<hr>Atuo como Pesquisador Voluntário de Cyber Defesa</hr>
+Atuo como pesquisador voluntário no Laboratório de Simulações e Cenários da Escola de
+Guerra Naval contribuindo na linha de pesquisa de Cyber Defesa.
 <li>Interesse em Guerra Cibernética, Defesa Cibernética e Segurança da Informação;</li>
-<li>Realizo pesquisas de Cyber Threat Intelligence, correlação de ATP, suas táticas, técnicas e procedimentos (TTPs) conforme MITRE ATT&CK e Cyber Kill Chain, visando segurança e defesa das infraestruturas críticas nacionais;</li>
+<li>Realizo pesquisas de Cyber Threat Intelligence, correlação de ATP, suas táticas, técnicas e procedimentos (TTPs)
+conforme MITRE ATT&CK e Cyber Kill Chain, visando segurança e defesa das infraestruturas críticas nacionais;</li>
+<li>Análise, recomendações de melhoria dos controles de segurança e mitigação de
+vulnerabilidades.</li>
 <li>Aplicação de frameworks e normas de segurança OWASP , CIS-CSC, NIST Cybersecurity framework, ISO 27001, ISO 27002, MITRE ATT&CK; e</li>
 <li>Emulação de Adversário com MITRE Caldera, MITRE Navigator</li>
 </ul>  
